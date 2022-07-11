@@ -3,7 +3,7 @@
 		Original image: https://dribbble.com/shots/3029443-Radio-Gif
 */
 
-
+alert("Hacer click en el boton naranjita");
 let b = document.body;
 let radio = document.querySelector("#radio");
 let shadow= document.querySelector("#shadow");
